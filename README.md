@@ -25,7 +25,7 @@ Innovations and integrations with Meta’s suite of tools.
 Solutions and development for Google’s platforms.
 
 ### 6. **Azure Development** 
-![Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png)  
+![Azure](https://img.shields.io/badge/Service-Azure_Development-blue?logo=microsoft-azure&logoColor=white)  
 Custom solutions on Microsoft Azure cloud.
 
 ### 7. **Oracle Development** 
