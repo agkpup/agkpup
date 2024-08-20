@@ -1,7 +1,10 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile. I’m **[Abhay Gautam](mailto:abhayjigautam@gmail.com)**, a passionate **Full Stack Developer** and tech enthusiast, With training from **HashedIn Technolgies**, a Deloitte subsidiary, I leverage advanced problem-solving skills to deliver top-notch solutions. Here’s a quick overview of the services I offer:
+
 ![Profile Picture](https://hashedin.com/wp-content/uploads/2022/11/hashedin-logo.png)
+
+
 ## 🚀 Services
 
 ### 1. **Full Stack Development** 
