@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile. I’m [Abhay J. Gautam](mailto:abhayjigautam@gmail.com), a Full Stack Developer and tech enthusiast. Here’s a quick overview of the services I offer:
+Welcome to my GitHub profile. I’m [Abhay Gautam](mailto:abhayjigautam@gmail.com), a Full Stack Developer and tech enthusiast. Here’s a quick overview of the services I offer:
 
 ## 🚀 Services
 
