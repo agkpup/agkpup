@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-# Hi there! 👋
+# Hello experts ! 👋
 
 Welcome to my GitHub profile! I’m **[Abhay Gautam](mailto:abhayjigautam@gmail.com)**, a passionate **Full Stack Developer**, **DevOps** specialist, and tech enthusiast. With training from experts at **HashedIn Technologies**, a Deloitte subsidiary, I leverage advanced problem-solving skills to deliver top-notch solutions.
 
