@@ -65,8 +65,6 @@ Feel free to reach out to me for collaboration opportunities or project inquirie
 
 - [LinkedIn](https://linkedin.com/in/abhay-be-pu)
 
-![Profile Picture](https://avatars.githubusercontent.com/u/67030039?s=400&u=44d609e6e3a5ef1e796e4310734ceb27db436875&v=4)
-
 ---
 
 ### **GitHub Stats**
