@@ -1,6 +1,6 @@
 # Hello experts ! 👋
 
-Welcome to my GitHub profile! I’m **[ER. Abhay Gautam](mailto:abhayjigautam@gmail.com)**, a passionate **Full Stack Developer**, **DevOps** specialist, and tech enthusiast. With training from experts at **HashedIn Technologies**, a Deloitte subsidiary, I leverage advanced problem-solving skills to deliver top-notch solutions.
+Welcome to my GitHub profile! I’m **[Er. Abhay Gautam](mailto:abhayjigautam@gmail.com)**, a passionate **Full Stack Developer**, **DevOps** specialist, and tech enthusiast. With training from experts at **HashedIn Technologies**, a Deloitte subsidiary, I leverage advanced problem-solving skills to deliver top-notch solutions.
 
 ![Profile Picture](https://hashedin.com/wp-content/uploads/2022/11/hashedin-logo.png)
 
